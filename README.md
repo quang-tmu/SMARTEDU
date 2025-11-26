@@ -1,20 +1,63 @@
-SMARTEDU – Tài liệu Phân tích Nghiệp vụ
-SMARTEDU là dự án phân tích nghiệp vụ nhằm xây dựng nền tảng quản lý giáo dục tích hợp trí tuệ nhân tạo. Hệ thống hỗ trợ giảng viên và nhà quản trị trong việc quản lý khóa học, theo dõi hiệu suất học tập và tối ưu quy trình giảng dạy dựa trên dữ liệu.
 
-Tóm tắt
-Tập hợp tài liệu phân tích nghiệp vụ cho SMARTEDU — yêu cầu người dùng và user stories phục vụ thiết kế và phát triển hệ thống.
 
-Nội dung repo
-Các tài liệu BA được đặt trong thư mục Documents/:
+---
 
-UserStories_SmartEdu.docx — User Stories & Tiêu chí nghiệm thu.
-URD_SmartEdu_User_Requirements.docx — Tài liệu yêu cầu người dùng (URD).
-Lưu ý: Sơ đồ UML/BPMN, wireframe và prototype đã được nhúng trực tiếp trong các file tài liệu.
+# **SMARTEDU – Business Analysis Documentation**
 
-Sản phẩm phân tích chính có trong file
-URD: Phạm vi, yêu cầu chức năng và phi chức năng.
-User Stories & Acceptance Criteria: Sẵn sàng cho sprint planning.
-Mô hình hệ thống nhúng: Use Case, Activity/BPMN, ERD.
-Wireframe / Prototype (ảnh chụp, nhúng).
-Ghi chú cuộc họp, mapping stakeholders và các bảng truy vết yêu cầu (nếu có trong tài liệu).
-Sản phẩm thuộc về nhóm 2 – BA27 TMU – iBPO Academy
+**SMARTEDU** is a business analysis project aimed at building an AI-integrated education management platform. The system supports instructors and administrators in managing courses, tracking student performance, and optimizing teaching processes through data-driven insights.
+
+---
+
+##  **Overview**
+
+This repository contains the full set of Business Analysis (BA) documents for the SMARTEDU system — including user requirements, user stories, and supporting models for system design and development.
+
+---
+
+##  **Repository Structure**
+
+All BA documents are stored in the **`Documents/`** folder:
+
+* **UserStories_SmartEdu.docx** — User Stories & Acceptance Criteria
+* **URD_SmartEdu_User_Requirements.docx** — User Requirements Document (URD)
+
+> UML diagrams, BPMN flows, wireframes, and prototypes are embedded directly inside the documents.
+
+---
+
+##  **Key Deliverables**
+
+### **1. User Requirements Document (URD)**
+
+* Project scope
+* Functional requirements
+* Non-functional requirements
+* Stakeholder mapping
+* Embedded system models (Use Case, Activity/BPMN, ERD)
+
+### **2. User Stories & Acceptance Criteria**
+
+* Ready for Sprint Planning
+* Structured per feature/module
+* Includes AC in Gherkin format where applicable
+
+### **3. System Models**
+
+* Use Case diagrams
+* Activity diagrams / BPMN
+* Entity-Relationship Diagram (ERD)
+* Wireframes / Prototypes
+
+### **4. Additional Notes**
+
+* Meeting notes
+* Requirement traceability tables (if included in the documents)
+
+---
+
+## 👥 **Project Team**
+
+Belongs to **Group 2 – BA27 TMU **.
+
+---
+
